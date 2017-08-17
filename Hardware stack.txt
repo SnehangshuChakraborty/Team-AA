@@ -1,0 +1,13 @@
+Node A
+Raspberry pi 3
+robot
+webcamera
+L298 motor driver
+battery pack
+
+
+Node B
+Arduino uno r3 enabled
+temperature and humidity sensor
+soil moisture sensor
+dc pump
